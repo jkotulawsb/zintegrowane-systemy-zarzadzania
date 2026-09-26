@@ -1,0 +1,4 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Proin ut ex ac urna efficitur varius. 
+Testowe repozytorium Git.
+Zmiana zatwierdzona w celu sprawdzenia historii commitów.
